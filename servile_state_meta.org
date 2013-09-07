@@ -1,0 +1,39 @@
+#+TITLE: Metadata for Belloc's /Servile State/
+
+* Origin of this text
+I found this text on the Internet Archive at
+[[http://archive.org/details/servilestate00belluoft]].  
+It says that the text is not in copyright.
+* Metadata
+Copyright-evidence-operator: 	lajolla
+Copyright-region: 	US
+Copyright-evidence: 	Evidence reported by lajolla for item servilestate00belluoft on May 17, 2007: no visible notice of copyright; stated date is 1912.
+Copyright-evidence-date: 	20070517001834
+Scanningcenter: 	uoft
+Mediatype: 	texts
+Identifier-access: 	http://www.archive.org/details/servilestate00belluoft
+Identifier: 	servilestate00belluoft
+Imagecount: 	220
+Ppi: 	400
+Lcamid: 	1220800186
+Rcamid: 	1420900648
+Camera: 	5D
+Operator: 	scanner-jessica-krecklo@...
+Scanner: 	ias13
+Scandate: 	20070518024936
+Identifier-ark: 	ark:/13960/t0rr1rc0m
+Bookplateleaf: 	0006
+Sponsordate: 	20070531
+Filesxml: 	Thu Mar 18 10:30:39 UTC 2010
+* Primary book Info
+Author: Belloc, Hilaire, 1870-1953
+Subject: Economic history; Social history; Socialism; Collectivism; Industrial policy; Great Britain -- Economic policy
+Publisher: London ; Edinburgh : T.N. Foulis
+Possible copyright status: NOT_IN_COPYRIGHT
+Language: English
+Call number: AOB-8524
+Digitizing sponsor: MSN
+Book contributor: Kelly - University of Toronto
+Collection: kellylibrary; toronto
+
+Full catalog record: MARCXML
